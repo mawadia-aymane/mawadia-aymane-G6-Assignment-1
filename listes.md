@@ -14,7 +14,7 @@ kernelspec:
 ---
 
 # Les listes
-
+MAWADIA AYMANE G6
 ```{admonition} Définition
 
 Une liste est une collection ordonnée de valeurs.
